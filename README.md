@@ -9,7 +9,7 @@ It is an interactive game that affirmed my understanding of Python syntax, modul
 Clone this GitHub repository 
 ```
 
-$ git clone https://github.com/github/adventure-game.git
+$ git clone https://github.com/promisethedeveloper/adventure-game.git
 
 $ cd adventure-game
 ```
